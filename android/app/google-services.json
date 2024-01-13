@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "838091116520",
+    "project_id": "snuggle-tales",
+    "storage_bucket": "snuggle-tales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838091116520:android:7a64303490583ea937de5d",
+        "android_client_info": {
+          "package_name": "co.uk.flutterly.snuggle_tales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABT6M1CyTq8MgMLd6kcUt1R1XAZXUUZEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838091116520-k5mj7ds38jj2i6jdl8nc7igbtg658sfr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "flutterly.co.uk.Snuggle-Tales"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
